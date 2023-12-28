@@ -53,12 +53,7 @@ R^2 Score: 0.4619
 Mean Squared Error: 281299295.5392
 Mean Absolute Error: 12027.7451
 
-Certainly! You can include the following explanation of the evaluation scores in your project's README file:
-
----
-Certainly! Here's a combined version:
-
----
+------
 
 ## Model Evaluation and Comparison
 
